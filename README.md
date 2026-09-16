@@ -13,7 +13,9 @@ A comprehensive code archive and personal learning space dedicated to mathematic
 
 ## Tech Stack & Dependencies
 Language: Python 3.x
+
 Core Libraries: NumPy, SciPy, Matplotlib
+
 Environment: Jupyter Notebooks / Python Scripts (.py)
 
 ## License

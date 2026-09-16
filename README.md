@@ -6,10 +6,10 @@ A comprehensive code archive and personal learning space dedicated to mathematic
 
 | Module | Core Topics Covered | Key Tools & Libraries |
 | :--- | :--- | :--- |
-| mathematical-methods/ | Linear algebra, calculus, differential equations, complex & Fourier analysis | NumPy, SciPy, SymPy |
-| numerical-methods/ | Root finding, interpolation, numerical differentiation, integration & ODEs | NumPy, SciPy |
-| computational-physics/ | Classical mechanics, oscillations, electromagnetism, quantum & statistical physics | NumPy, SciPy, Matplotlib |
-| python/ | Core syntax, vectorization, array manipulations, data visualization & practice sets | NumPy, Matplotlib |
+| **`mathematical-methods/`** | Linear algebra, calculus, differential equations, complex & Fourier analysis | NumPy, SciPy, SymPy |
+| **`numerical-methods/`** | Root finding, interpolation, numerical differentiation, integration & ODEs | NumPy, SciPy |
+| **`computational-physics/`** | Classical mechanics, oscillations, electromagnetism, quantum & statistical physics | NumPy, SciPy, Matplotlib |
+| **`python/`** | Core syntax, vectorization, array manipulations, data visualization & practice sets | NumPy, Matplotlib |
 
 ## Tech Stack & Dependencies
 Language: Python 3.x
